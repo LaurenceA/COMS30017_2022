@@ -10,7 +10,7 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 - Lectures (weeks 1-7)
   - 9am Tuesdays (FRY BLDG G.10 LT)
   - 3pm Thursdays (CHEM BLDG LT1)
-- Problem classes (starting week 2)
+- Problem classes (starting week 2, 5th Oct)
   - 10am Wednesdays (MVB 1.11)
 
 ## Term schedule:
@@ -20,11 +20,10 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 - **Week 11-12**: Consolidation/revision week for students taking the exam.
 
 ## Links:
-- We will run QA on Teams, (as we did during COVID). You should already have been added to the group "COMS30017: Computational Neuroscience (Teaching Unit) 2021/22 (TB-1, A)" You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), using your UoB email address.
+- We will run QA on Teams, (as we did during COVID). You should already have been added to the group "Welcome to COMS30017: Computational Neuroscience (Teaching Unit) 2022/23 (TB-1, A)". You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), or use their web app (https://teams.microsoft.com/; Chrome seems least buggy...).
 
 ## Links
-- [Unit forum subreddit](https://www.reddit.com/r/coms30017_20_21): ask questions here. It includes questions from the previous year of the course, so some of the "admin" things may be different.  But the course content will be similar!
-- [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5947932_1&course_id=_247709_1&content_id=_5947957_1): official University of Bristol landing page.
+- [Blackboard page](): official University of Bristol landing page (e.g. for coursework submissions).
 
 <!-- 
 ## Past exams ##
