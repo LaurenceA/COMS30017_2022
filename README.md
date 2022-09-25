@@ -25,7 +25,7 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 - [Blackboard page (coursework unit)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7083255_1&course_id=_252933_1)
 
 ## Exam vs coursework unit.
-If you're not a CS student, you're doing the coursework version of the unit.  If you are a CS student, look on BB courses.  
+If you're not a CS student, you're doing the exam version of the unit.  If you are a CS student, look on your BB course list.  
 - If you see: "COMS30063_2022_TB-1: Computational Neuroscience (with Coursework) 2022" then you're doing coursework.  
 - If you see "COMS30016_2022_TB-1: Computational Neuroscience 2022" you're on the exam unit.
 
