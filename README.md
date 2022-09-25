@@ -26,14 +26,16 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 
 ## Exam vs coursework unit.
 If you're not a CS student, you're doing the exam version of the unit.  If you are a CS student, look on your BB course list.  
-- If you see: "COMS30063_2022_TB-1: Computational Neuroscience (with Coursework) 2022" then you're doing coursework.  
-- If you see "COMS30016_2022_TB-1: Computational Neuroscience 2022" you're on the exam unit.
+- If you see: **COMS30063_2022_TB-1: Computational Neuroscience (with Coursework) 2022** then you're doing coursework.  
+- If you see **COMS30016_2022_TB-1: Computational Neuroscience 2022** you're on the exam unit.
 
-You additionally may have a "COMS30017_2022_TB-1: Computational Neuroscience (Teaching Unit) 2022", which is common to everyone.
+Please get in touch with your school office (for CS, coms-info@bristol.ac.uk) if you have any questions about this.  Conor and I don't touch the enrollment process!
+
+You additionally may have a **COMS30017_2022_TB-1: Computational Neuroscience (Teaching Unit) 2022**, which is common to everyone.
 
 ## QA
 The course has two primary routes for QA:
-- Synchronous QA in the problem classes in MVB 1.11 on Wednesdays at 10am, or QA in Teams, as we ran during COVID.
+- Synchronous QA in the problem classes in MVB 1.11 on Wednesdays at 10-11am.
 - Asynchronous QA on Teams, (as we did during COVID). You should already have been added to the group "Welcome to COMS30017: Computational Neuroscience (Teaching Unit) 2022/23 (TB-1, A)". You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), or use their web app (https://teams.microsoft.com/; Chrome seems least buggy...).
 
 <!-- 
