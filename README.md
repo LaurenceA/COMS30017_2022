@@ -15,7 +15,7 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 
 ## Term schedule
 - **Weeks 1-7**: Lectures
-- **Weeks 2-**: Problem classes.  These will be held in MVB 1.11 with TAs + sometimes the lecturer.  Please bring any questions on problem sheets, past exams etc. to this session!
+- **Weeks 2-**: Problem classes.  These will be held in MVB 1.11 with TAs + sometimes the lecturer.  Please bring any questions on problem sheets, past exams etc. to this session!  The idea is to ask TAs questions individually, this isn't a "big" QA session where everyone listens to everyone else's questions!
 - **Weeks 8-10**: Coursework time, for those in CS taking the 20-credit coursework version of the unit.  (If you aren't in CS, you're not doing coursework!)
 - **Week 11-12**: Consolidation/revision week for students taking the exam.
 
