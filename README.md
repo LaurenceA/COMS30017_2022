@@ -1,6 +1,6 @@
 # Computational Neuroscience
 
-This is a 3rd year Computer Science and MSc unit. We will try to understand how the brain works from a computational point of view.
+This is a 3rd year Computer Science unit. We will try to understand how the brain works from a computational point of view.
 
 ## Staff
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) (unit director)
