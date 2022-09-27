@@ -53,7 +53,7 @@ Previous years' exams can be found here (note they were a different format and h
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1 | [video](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/953627c282d7476abe56b2908c5be9c11d) | [Why brains](week_1/week1_part1_overview.pdf); [Brain anatomy](week_1/week1_part2_anatomy.pdf)
+| 1 | [video](https://mediasite.bris.ac.uk/Mediasite/MyMediasite/presentations/953627c282d7476abe56b2908c5be9c11d) | [Why brains](week_1/week1_part1_overview.pdf); [Brain anatomy](week_1/week1_part2_brain_anatomy.pdf)
 <!-- | 2. Brain anatomy. | 21:37 [Stream link](https://web.microsoftstream.com/video/a700ee59-619d-4d72-ba89-f992a6e9479a) | [pdf](week_1/slides/week1_video2_brain_anatomy.pdf)
 | 3. Neuron anatomy: axons, dendrites, synapses. | 12:02 [Stream link](https://web.microsoftstream.com/video/b228f313-16cc-4305-8a6f-373e7ff5d84e) | [pdf](week_1/slides/week1_video3_neuron_anatomy.pdf)
 | 4. Neuronal communication. | 14:37 [Stream link](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [pdf](week_1/slides/week1_video4_neural_communication.pdf)
