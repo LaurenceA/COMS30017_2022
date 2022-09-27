@@ -49,7 +49,7 @@ Previous years' exams can be found here (note they were a different format and h
 
 ## Course content
 
-#### Week 1: Introduction
+### Week 1: Introduction (LA)
 https://mediasite.bris.ac.uk/Mediasite/Play/953627c282d7476abe56b2908c5be9c11d
 
 | Lecture | video | slides |
@@ -62,3 +62,15 @@ https://mediasite.bris.ac.uk/Mediasite/Play/953627c282d7476abe56b2908c5be9c11d
 | Problem sheet |---| [pdf](week_1/problem_sheet_week1.pdf)
 | Answers to problem sheet |---| [pdf](https://github.com/cs-uob/COMS30017/blob/master/week_1/week_1_answer.pdf)
 | QA            | [Stream link](https://web.microsoftstream.com/video/a6981c77-3de0-4b63-8b31-f60f05b3a127) |---| -->
+
+### Week 2: modelling neurons 1 (CH)
+
+### Week 3: modelling neurons 2 (CH)
+
+### Week 4: Synapses and synaptic plasticity (CH)
+
+### Week 5: Hippocampus + Hopfield networks (LA)
+
+### Week 6: Visual system + rate coding (LA)
+
+### Week 7: Cerebellum/basal ganglia, perceptrons, Rescorla-Wagner, blocking (LA)
