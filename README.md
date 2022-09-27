@@ -50,7 +50,6 @@ Previous years' exams can be found here (note they were a different format and h
 ## Course content
 
 ### Week 1: Introduction (LA)
-https://mediasite.bris.ac.uk/Mediasite/Play/953627c282d7476abe56b2908c5be9c11d
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
