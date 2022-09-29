@@ -38,6 +38,11 @@ The course has two primary routes for QA:
 - Synchronous QA in the problem classes in MVB 1.11 on Wednesdays at 10-11am.
 - Asynchronous QA on Teams, (as we did during COVID). You should already have been added to the group "Welcome to COMS30017: Computational Neuroscience (Teaching Unit) 2022/23 (TB-1, A)". You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), or use their web app (https://teams.microsoft.com/; Chrome seems least buggy...).
 
+## Videos
+It seems that we can get access to the lecture videos through BlackBoard.  Unfortunately, it may take a couple of days for videos to appear here.
+- Go to the **teaching unit** (COMS30017_2022_TB-1: Computational Neuroscience (Teaching Unit) 2022)
+- Go to Re/Play in the menu on the left
+
 <!-- 
 ## Past exams ##
 The 2021 January exams with solutions can be found here:
