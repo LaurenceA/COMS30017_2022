@@ -40,7 +40,7 @@ The course has two primary routes for QA:
 
 ## Videos
 It seems that we can get access to the lecture videos through BlackBoard.  Unfortunately, it may take a couple of days for videos to appear here.
-- Go to the **teaching unit** (COMS30017_2022_TB-1: Computational Neuroscience (Teaching Unit) 2022)
+- Go to the **teaching unit** in BlackBoard (**COMS30017_2022_TB-1: Computational Neuroscience (Teaching Unit) 2022**)
 - Go to Re/Play in the menu on the left
 
 <!-- 
