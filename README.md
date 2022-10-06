@@ -73,9 +73,9 @@ Previous years' exams can be found here (note they were a different format and h
 
 |  | material |
 | ------ | --- |
-| ### Lecture 1 ### | [The leaky bucket](https://github.com/coms30127/2022_23/blob/master/1_bucket_equation/1_bucket.pdf)
+| * Lecture 1 * | [The leaky bucket](https://github.com/coms30127/2022_23/blob/master/1_bucket_equation/1_bucket.pdf)
 | related slides    | [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.1.pdf)
-| related video     | [youtube[(https://www.youtube.com/watch?v=VrtVHAGjuEs)
+| related video     | [youtube](https://www.youtube.com/watch?v=VrtVHAGjuEs)
 
 
 ### Week 3: modelling neurons 2 (CH)
