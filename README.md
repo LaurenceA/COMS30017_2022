@@ -84,7 +84,7 @@ Previous years' exams can be found here (note they were a different format and h
 | ------ | --- |
 | Lecture 2 | [Integrate and fire (draft)](https://github.com/coms30127/2022_23/blob/master/2_i_and_f/2_i_and_f.pdf)
 | related slides    | [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.2.pdf)
-| related video     | [youtube](https://www.youtube.com/watch?v=VrtVHAGjuEs)
+| related video     | [youtube](https://www.youtube.com/watch?v=VhijgvVwn2g)
 
 
 ### Week 4: Synapses and synaptic plasticity (CH)
