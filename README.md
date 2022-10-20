@@ -93,7 +93,7 @@ Previous years' exams can be found here (note they were a different format and h
 
 |  | material |
 | ------ | --- |
-| Lecture 3 | more Hodgkin Huxley / [Synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
+| Lecture 3 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
 | Lecture 3 | more synapses
 
 
