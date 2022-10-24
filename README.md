@@ -52,6 +52,11 @@ The 2021 January exams with solutions can be found here:
 Previous years' exams can be found here (note they were a different format and had a different syllabus, so the above exam is more relevant): <https://github.com/coms30127/exam_papers>
 -->
 
+## Exam
+We'll put more information on the exam here as it becomes available.
+
+For the moment, the exam will be close book.
+
 ## Course content
 
 ### Week 1: Introduction (LA)
