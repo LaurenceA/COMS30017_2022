@@ -55,7 +55,7 @@ Previous years' exams can be found here (note they were a different format and h
 ## Exam
 We'll put more information on the exam here as it becomes available.
 
-For the moment, the exam will be close book.
+For the moment, the exam will be closed book.
 
 ## Course content
 
