@@ -108,6 +108,7 @@ For the moment, the exam will be closed book.
 | ------ | --- |
 | Lecture 1 | [The Hippocampus and long term memory](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf); [Spatial Navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video2.pdf)
 | Lecture 2 | [Pattern Separation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video3.pdf); [Hopfield Networks](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf); [Continuous attractors and navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf)
+| Problem Sheet | [Problem Sheet](week_5/problem_sheet_week5.pdf) |
 
 ### Week 6: Visual system + rate coding (LA)
 
