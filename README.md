@@ -52,6 +52,11 @@ The 2021 January exams with solutions can be found here:
 Previous years' exams can be found here (note they were a different format and had a different syllabus, so the above exam is more relevant): <https://github.com/coms30127/exam_papers>
 -->
 
+## Exam
+We'll put more information on the exam here as it becomes available.
+
+For the moment, the exam will be closed book.
+
 ## Course content
 
 ### Week 1: Introduction (LA)
@@ -71,11 +76,38 @@ Previous years' exams can be found here (note they were a different format and h
 
 ### Week 2: modelling neurons 1 (CH)
 
+|  | material |
+| ------ | --- |
+| Lecture 1 | [The leaky bucket](https://github.com/coms30127/2022_23/blob/master/1_bucket_equation/1_bucket.pdf)
+| related slides    | [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.1.pdf)
+| related video     | [youtube](https://www.youtube.com/watch?v=VrtVHAGjuEs)
+
+
 ### Week 3: modelling neurons 2 (CH)
+
+|  | material |
+| ------ | --- |
+| Lecture 2 | [Integrate and fire](https://github.com/coms30127/2022_23/blob/master/2_i_and_f/2_i_and_f.pdf)
+| related slides    | [slides](https://github.com/conorhoughton/PHPH20007/blob/master/slides_1.2.pdf)
+| related video     | [youtube](https://www.youtube.com/watch?v=VhijgvVwn2g)
+| Lecture 3 | Integrate and fire / [Hodgkin Huxley](https://github.com/coms30127/2022_23/blob/master/3_hodgkin_and_huxley/3_hodgkin_huxley.pdf)
+
 
 ### Week 4: Synapses and synaptic plasticity (CH)
 
+
+|  | material |
+| ------ | --- |
+| Lecture 3 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
+| Lecture 3 | more synapses
+
+
 ### Week 5: Hippocampus + Hopfield networks (LA)
+
+|  | files |
+| ------ | --- |
+| Lecture 1 | [The Hippocampus and long term memory](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf); [Spatial Navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video2.pdf)
+| Lecture 2 | [Pattern Separation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video3.pdf); [Hopfield Networks](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf); [Continuous attractors and navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf)
 
 ### Week 6: Visual system + rate coding (LA)
 
