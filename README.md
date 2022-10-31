@@ -99,7 +99,8 @@ For the moment, the exam will be closed book.
 |  | material |
 | ------ | --- |
 | Lecture 4 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
-| Lecture 5 | more synapses
+| Lecture 5 | more synapses 
+| Worksheet | [worksheet](https://github.com/coms30127/2022_23/blob/master/worksheet/worksheet.pdf) |
 
 
 ### Week 5: Hippocampus + Hopfield networks (LA)
