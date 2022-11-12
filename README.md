@@ -121,8 +121,8 @@ Laurence managed to get COVID last week, so it'll be video lectures while he is 
 | 3. Retina | 7:08 [[Stream link]](https://web.microsoftstream.com/video/5bc40aa5-6cb4-42de-b8ef-7679bf1e949f) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video3.pdf) |
 | 4. V1 and the cortical microcircuit | 15:46 [[Stream link]](https://web.microsoftstream.com/video/e09a87fb-02d4-44ad-8e26-e53be1e86477) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video4.pdf) |
 | 5. Topographic maps and sparse coding | 20:43 [[Stream link]](https://web.microsoftstream.com/video/62cf3f4a-be00-4c6c-96fb-15b81fedda3d) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video5.pdf) |
-<!-- | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/problem_sheet_week6.pdf)
-| Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/week6ans.pdf)|
+| Problem sheet |---| [[pdf]](week_6/problem_sheet_week6.pdf)
+<!-- | Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/week6ans.pdf)|
 | Q&A | [[Stream link]](https://web.microsoftstream.com/video/a9c5a708-14be-46af-a7e1-9869897d6ce8) | -- | -->
 
 ### Week 7: Cerebellum/basal ganglia, perceptrons, Rescorla-Wagner, blocking (LA)
