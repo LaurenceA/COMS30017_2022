@@ -98,8 +98,9 @@ For the moment, the exam will be closed book.
 
 |  | material |
 | ------ | --- |
-| Lecture 3 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
-| Lecture 3 | more synapses
+| Lecture 4 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
+| Lecture 5 | more synapses 
+| Worksheet | [worksheet](https://github.com/coms30127/2022_23/blob/master/worksheet/worksheet.pdf) |
 
 
 ### Week 5: Hippocampus + Hopfield networks (LA)
@@ -108,7 +109,20 @@ For the moment, the exam will be closed book.
 | ------ | --- |
 | Lecture 1 | [The Hippocampus and long term memory](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf); [Spatial Navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video2.pdf)
 | Lecture 2 | [Pattern Separation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video3.pdf); [Hopfield Networks](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf); [Continuous attractors and navigation](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf)
+| Problem Sheet | [Problem Sheet](week_5/problem_sheet_week5.pdf) |
 
 ### Week 6: Visual system + rate coding (LA)
+Laurence managed to get COVID last week, so it'll be video lectures while he is recovering.  Hopefully back to usual service next week!
+
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Firing rates and receptive fields | 16:51 [[Stream link]](https://web.microsoftstream.com/video/ba5047ed-24d8-4363-bc26-2222b232c90c) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video1.pdf) |
+| 2. The visual pathway | 15:17 [[Stream link]](https://web.microsoftstream.com/video/f07d3f8a-8825-46e6-9b75-397c7318b524) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video2.pdf) |
+| 3. Retina | 7:08 [[Stream link]](https://web.microsoftstream.com/video/5bc40aa5-6cb4-42de-b8ef-7679bf1e949f) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video3.pdf) |
+| 4. V1 and the cortical microcircuit | 15:46 [[Stream link]](https://web.microsoftstream.com/video/e09a87fb-02d4-44ad-8e26-e53be1e86477) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video4.pdf) |
+| 5. Topographic maps and sparse coding | 20:43 [[Stream link]](https://web.microsoftstream.com/video/62cf3f4a-be00-4c6c-96fb-15b81fedda3d) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video5.pdf) |
+<!-- | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/problem_sheet_week6.pdf)
+| Answers | --- | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/week6ans.pdf)|
+| Q&A | [[Stream link]](https://web.microsoftstream.com/video/a9c5a708-14be-46af-a7e1-9869897d6ce8) | -- | -->
 
 ### Week 7: Cerebellum/basal ganglia, perceptrons, Rescorla-Wagner, blocking (LA)
