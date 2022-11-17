@@ -19,6 +19,10 @@ This is a 3rd year Computer Science unit. We will try to understand how the brai
 - **Weeks 8-10**: Coursework time, for those in CS taking the 20-credit coursework version of the unit.  (If you aren't in CS, you're not doing coursework!)
 - **Week 11-12**: Consolidation/revision week for students taking the exam.
 
+## Coursework
+Please see the [folder](coursework) and the [pdf](coursework/coursework.pdf).  This is only relevant for those in the Coursework part of the unit (see "Exam vs coursework unit" if you're not sure what part of the course you're on).
+
+
 ## Links
 - [Blackboard page (teaching unit)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7087066_1&course_id=_252972_1)
 - [Blackboard page (exam unit)](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7087155_1&course_id=_252973_1)
