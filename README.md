@@ -57,9 +57,21 @@ Previous years' exams can be found here (note they were a different format and h
 -->
 
 ## Exam
-We'll put more information on the exam here as it becomes available.
+The exam is
+* closed book
+* in person
+* handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
 
-For the moment, the exam will be closed book.
+Past exams:
+* [20/21 main](exams/2021_main.pdf)
+* [20/21 main](exams/2021_main.pdf)
+* [20/21 resit](exams/2021_resit.pdf)
+
+The format is very slightly different to last year:
+* There are 12 compulsory short questions.
+* In addition, there are 3 long questions.  You pick 2 of the 3 long questions.  The long questions is really just a collection of a few short answer questions, but where there can be some links across the questions.
+* Previous years have multiple choice questions and short answer questions, while this year we just have short answer questions (remember that the long questions are really just a collection of shorter questions).  Importantly, the content + difficulty of the MCQs vs short answer questions should be very similar.
+
 
 ## Course content
 
