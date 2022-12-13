@@ -63,9 +63,9 @@ The exam is
 * handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
 
 Past exams:
-* [20/21 main](exams/2021_main.pdf)
-* [20/21 main](exams/2021_main.pdf)
-* [20/21 resit](exams/2021_resit.pdf)
+* [20/21 main](/exams/2021_main.pdf)
+* [21/22 main](/exams/2022_main.pdf)
+* [21/22 resit](/exams/2022_resit.pdf)
 
 The format is very slightly different to last year:
 * There are 12 compulsory short questions.
