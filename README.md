@@ -63,9 +63,9 @@ The exam is
 * handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
 
 Past exams:
-* [20/21 main](/exams/2021_main.pdf)
-* [21/22 main](/exams/2022_main.pdf)
-* [21/22 resit](/exams/2022_resit.pdf)
+* [20/21 main](github.com/LaurenceA/COMS30017_2022/blob/main/exams/main_2021.pdf)
+* [21/22 main](github.com/LaurenceA/COMS30017_2022/blob/main/exams/main_2022.pdf)
+* [21/22 resit](github.com/LaurenceA/COMS30017_2022/blob/main/exams/resit_2022.pdf)
 
 The format is very slightly different to last year:
 * There are 12 compulsory short questions.
