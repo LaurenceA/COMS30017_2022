@@ -57,10 +57,11 @@ Previous years' exams can be found here (note they were a different format and h
 -->
 
 ## Exam
-The exam is
-* closed book
-* in person
-* handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
+The exam
+* is closed book
+* is in person
+* is handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
+* allows calculators (with the usual restrictions that they be "non-programmable"; please email coms-info@bristol.ac.uk for any queries about calculators)
 
 Past exams:
 * [20/21 main](https://github.com/LaurenceA/COMS30017_2022/blob/main/exams/main_2021.pdf)
