@@ -118,6 +118,7 @@ The format is very slightly different to last year:
 | Lecture 4 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
 | Lecture 5 | more synapses 
 | Worksheet | [worksheet](https://github.com/coms30127/2022_23/blob/master/worksheet/worksheet.pdf) |
+| Q5 solution | [network.py](https://github.com/coms30127/2022_23/blob/master/worksheet/code/network.py) / [network.jl](https://github.com/coms30127/2022_23/blob/master/worksheet/code/network.jl) |
 
 
 ### Week 5: Hippocampus + Hopfield networks (LA)
