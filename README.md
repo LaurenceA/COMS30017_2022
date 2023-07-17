@@ -57,15 +57,16 @@ Previous years' exams can be found here (note they were a different format and h
 -->
 
 ## Exam
-The exam is
-* closed book
-* in person
-* handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
+The exam
+* is closed book
+* is in person
+* is handwritten (unless you have AEAs, please get in touch with the school office to confirm these coms-info@bristol.ac.uk).
+* allows calculators (with the usual restrictions that they be "non-programmable"; please email coms-info@bristol.ac.uk for any queries about calculators)
 
 Past exams:
-* [20/21 main](exams/2021_main.pdf)
-* [20/21 main](exams/2021_main.pdf)
-* [20/21 resit](exams/2021_resit.pdf)
+* [20/21 main](https://github.com/LaurenceA/COMS30017_2022/blob/main/exams/main_2021.pdf)
+* [21/22 main](https://github.com/LaurenceA/COMS30017_2022/blob/main/exams/main_2022.pdf)
+* [21/22 resit](https://github.com/LaurenceA/COMS30017_2022/blob/main/exams/resit_2022.pdf)
 
 The format is very slightly different to last year:
 * There are 12 compulsory short questions.
@@ -117,6 +118,7 @@ The format is very slightly different to last year:
 | Lecture 4 | more Hodgkin Huxley / [synapses](https://github.com/coms30127/2022_23/blob/master/4_synapses/4_synapses.pdf)
 | Lecture 5 | more synapses 
 | Worksheet | [worksheet](https://github.com/coms30127/2022_23/blob/master/worksheet/worksheet.pdf) |
+| Q5 solution | [network.py](https://github.com/coms30127/2022_23/blob/master/worksheet/code/network.py) / [network.jl](https://github.com/coms30127/2022_23/blob/master/worksheet/code/network.jl) |
 
 
 ### Week 5: Hippocampus + Hopfield networks (LA)
